@@ -1,4 +1,4 @@
-# TANDEMLOOP Programming Test
+# TANDEMLOOP Programming Test (Python)
 
 This repository contains solutions to a programming test consisting of four problems. The test is designed to assess your problem-solving and coding skills. Please follow the instructions below to complete the test.
 
